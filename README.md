@@ -8,8 +8,8 @@ Atualmente focado em **desenvolvimento web** e sempre buscando evoluir como prog
 ## 🚀 Sobre mim
 
 - 🎓 Estudando e praticando diariamente programação.
-- 💻 Foco em **JavaScript**, **React**, **Node.js** e tecnologias modernas.
-- 🛠️ Também gosto de brincar com **Python**, automações e APIs.
+- 💻 Foco em **Python** e tecnologias modernas.
+- 🛠️ Também gosto de brincar com **JavaScript**.
 - 📚 Sempre explorando novos desafios e aprendendo com cada projeto.
 - 🎯 Buscando oportunidades para crescer e colaborar em projetos incríveis.
 
@@ -17,7 +17,7 @@ Atualmente focado em **desenvolvimento web** e sempre buscando evoluir como prog
 
 ## 🧰 Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode,figma" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,git,github" alt="Tech stack"/>
 
 ---
 
