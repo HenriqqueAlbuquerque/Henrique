@@ -17,7 +17,7 @@ Atualmente focado em **desenvolvimento web** e sempre buscando evoluir como prog
 
 ## 🧰 Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,git,github" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" alt="Tech stack"/>
 
 ---
 
