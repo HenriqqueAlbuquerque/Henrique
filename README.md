@@ -23,7 +23,7 @@ Atualmente focado em **desenvolvimento Front-End** e sempre buscando evoluir com
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-alb/)  
 [![Portfolio](https://img.shields.io/badge/-Meu%20Portfólio-000?style=for-the-badge&logo=github&logoColor=white)](www.linkedin.com/in/henrique-alb)
 
 ---
