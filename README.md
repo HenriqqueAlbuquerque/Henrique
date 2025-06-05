@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Henrique!
+#  Olá, eu sou o Henrique!
 
 Sou um desenvolvedor de 20 anos apaixonado por tecnologia, código limpo e aprender coisas novas todos os dias.  
 Atualmente focado em **desenvolvimento web** e sempre buscando evoluir como programador e como pessoa.
@@ -8,7 +8,7 @@ Atualmente focado em **desenvolvimento web** e sempre buscando evoluir como prog
 ## 🚀 Sobre mim
 
 - 🎓 Estudando e praticando diariamente programação.
-- 💻 Foco em **Python** e tecnologias modernas.
+- 💻 Foco em *Front-End*** e tecnologias modernas.
 - 🛠️ Também gosto de brincar com **JavaScript**.
 - 📚 Sempre explorando novos desafios e aprendendo com cada projeto.
 - 🎯 Buscando oportunidades para crescer e colaborar em projetos incríveis.
