@@ -1,7 +1,7 @@
 #  Olá, eu sou o Henrique!
 
 Sou um desenvolvedor de 20 anos apaixonado por tecnologia, código limpo e aprender coisas novas todos os dias.  
-Atualmente focado em **desenvolvimento web** e sempre buscando evoluir como programador e como pessoa.
+Atualmente focado em **desenvolvimento Front-End** e sempre buscando evoluir como programador e como pessoa.
 
 ---
 
